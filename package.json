@@ -1,9 +1,9 @@
 {
-  "name": "blog",
+  "name": "gatsby-starter-blog",
   "private": true,
-  "description": "linkzr's blog",
+  "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "linkzr <1028159057@qq.com>",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
     "url": "https://github.com/nullcex/blog/issues"
   },
@@ -46,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nullcex/blog.git"
+    "url": "git+https://github.com/nullcex/blog.git"
   },
   "scripts": {
     "build": "gatsby build",

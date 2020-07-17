@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Linkzr's Blog`,
+    title: `linkzr's blog`,
     author: {
-      name: `Linkzr`,
-      summary: `who lives and works in XiMen China building useful things.`,
+      name: `linkzr`,
+      summary: `who lives and works in XiaMen building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://practical-feynman-09a9e8.netlify.app/`,
+    description: `personal blog.`,
+    siteUrl: `https://suspicious-galileo-9eae72.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `linkzr`,
     },
   },
   pathPrefix: "/blog",
