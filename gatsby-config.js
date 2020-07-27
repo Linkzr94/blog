@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives and works in XiaMen building useful things.`,
     },
     description: `personal blog.`,
-    siteUrl: `https://suspicious-galileo-9eae72.netlify.app/`,
+    siteUrl: `https://nullcex.github.io/blog/`,
     social: {
       twitter: `linkzr`,
     },
@@ -61,7 +61,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Linkzr Blog`,
+        name: `Gatsby Starter Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
